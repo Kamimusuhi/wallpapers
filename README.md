@@ -3,7 +3,7 @@
   Credits go to their respective owners!
 </h1>
 
-> **_preview/_** is exclusively for **low-res** image previews. 
+> **_preview/_** is exclusively for **low-res** image previews. <br>
 > **_images/_** will have the original images.
 
 <details align="center">
