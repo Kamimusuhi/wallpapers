@@ -3,6 +3,9 @@
   Credits go to their respective owners!
 </h1>
 
+> **_preview/_** is exclusively for **low-res** image previews. 
+> **_images/_** will have the original images.
+
 <details align="center">
 <summary>Click to show/hide wallpapers preview.</summary>
 <br>
